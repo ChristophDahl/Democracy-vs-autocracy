@@ -1,4 +1,4 @@
-# Competing Democratic and Autocratic Long-Run Regimes in a Minimal Norm–Institution Model
+# Competing democratic and autocratic long-run regimes in a minimal norm–institution model
 
 This repository contains MATLAB code for the study:
 
