@@ -52,14 +52,17 @@ democracy_autocracy/
 │   ├── analysis/
 │   │   ├── compute_funnel_metrics.m
 │   │   ├── compute_pairwise_basin_map.m
-│   │   └── explore_4d_state_space.m
+│   │   ├── explore_4d_state_space.m
+│   │   └── run_robustness_checks.m
 │   └── plotting/
 │       ├── plot_results.m
 │       ├── plot_scan_summary.m
 │       ├── labelSubplots.m
 │       ├── placeLegendAt.m
 │       ├── placeLegendAtAxes.m
-│       └── save_model_figure.m
+│       ├── save_model_figure.m
+│       └── create_model_architecture_figure.m
+
 ├── figures/
 ├── results/
 └── manuscript/
